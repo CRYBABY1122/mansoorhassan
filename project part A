@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="projectd.css"/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+		<div class="header">
+			<h1>The Pakistan Times</h1>
+			<h6>25/11/2024 Monday</h6>	
+		</div>
+		<div class="news">
+			<div class="article big">
+				<img src="251021422014c39.jpg">
+				<div class="articlecontent">
+				<h2>After taking a breather overnight, PTI convoys to resume slow march towards Islamabad today
+                    </h2>
+				<p>Qaiser says PTI "in no hurry" to reach capital; 800 PTI leaders, supporters arrested over the weekend; Yousufzai claims police fled Burhan Interchange after seeing PTI rally</p>
+				</div>
+			</div>
+			<div class="article medium" >
+				<img src="https://lh3.googleusercontent.com/O-GwgRucU9UajDdrLy0WwaPJESwd6R0GstCU87GA3buQITe3ul6zugKTgk5yTE0m3taTPzzFCd59mdK4MfmCGJKT1APGOUaItRwLzfrz8oNillKB_lOt7N1UXPti2Z9iAV9Hz5G-PLE_JuOhQptTM_6RezVpmJ3A0PTkirKFFqH1BF4deDyWETv313LybeqpO3GSpg0TfNxaoPgOUuKsxuJpTVkjJ3Z0KMp8btQZJ_R-oNA04ey-UFqBc7BK7aJTU9cit96X4QvYmfrZ_1fXd0XXYXwSHcxMc3QQiTCUkMdSrtq9l89lY3v1yyl133-yw6F0cq8kk_c5w8TssjHnlH21LWynWK_ZOs8Vtu7gmteLffINKJh7gnHDZosbepzKB1-4axmkBtpfRPGVzbntWjF0kkycRmmGA8Xf8r-sftHmwuBFqHEGTF_ao45QlTxl2iVSjA44ETB7ErD9GmZBdxawc-NoZyXoEY3XcF5cpEEiaqHeROe5ZgNLqJWeCkhZVCCLfbKIb7iZ8Gvcge-BYwNUIb17_7KxO94LD99pieI4vTaFDJAZfiklrELeUjEyGd6yUOimIpyLrye42pQZ4k9YXFXxA6mqbpINUF5JxjGb4QvwS73o4LlcfocTmQ5R863l9oaV70hGER1Q0dgFK0IOl9sINBHOWwNi7K5S=w300-h168-no">
+				<div class="articlecontent">
+				<h2>The future of Amazon drone deliveries</h2>
+				<p>Amazon (AMZN, Tech30) has filed for a patent for beehive-like towers that would serve as multi-level fulfillment centers for its delivery drones to take off and land. The facilities would be built vertically to blend in with high rises in urban areas. Amazon envisions each city would have one.
+				The patent application, filed in December 2015 and published on Thursday by the U.S. Patent and Trademark Office, features several drawings of these buildings, such as the beehive, a cylinder-shaped center and one that looks like a UFO</p>
+				</div>
+			</div>
+			<div class="article medium">
+				<img src="thrt.jpg">
+				<div class="articlecontent">
+				<h2>Pakistanies foods we Halwa Puri</h2>
+				<p>Halwa Puri is a traditional desi breakfast that Lahoris love with all their hearts. The authentic taste of Halwa Puri will always take you back to old Lahore: with the best taste in the city! Zafar Halva Puri definitely takes the lead on this. It’s outdoor street dining (well not exactly dining, but what’s the proper Lahore experience if you don’t SIT on the street and have your food?!) where you are served fresh puris so you can eat them to your fill. Next up is their halwa – halwa is a sweet breakfast dish enjoyed fully by everyone. The pairing of halwa puri is just wonderful for everyone to start off a lazy Sunday with!</p>
+				</div>
+			</div>
+			<div class="article big">
+				<img src="image-2.jpg.webp">
+				<div class="articlecontent">
+				<h2>New York City's best rooftop bars</h2>
+				<p>There's something about being far above the hubbub of the Big Apple's streets, especially in the summertime, when humidity levels soar and the concrete feels like it's emanating heat waves.
+				"Being on a New York City rooftop gives you this special pleasure of feeling part of the city, inside it, but at a distance," says Ray Chung, director of design at The Johnson Studio, the firm behind the rooftop lounge at The Wit Hotel in Chicago, among other projects."Walking down the streets is one thing, but being able to let your guard down and see the city reduced in size -- all the while still breathing the same air and still hearing the buzz of the city -- it can be intoxicating," says Chung.</p>
+				</div>
+			</div>
+			<div class="article small">
+				<img src="chef-mehboob-khan.jpeg">
+				<div class="articlecontent">
+				<h2> Naheed Ansari is at last position in Top Ten Chefs in Pakistan</h2>
+				<p>A standout among the most generous names in cooking and home stylistic theme, Naheed Ansari got last position among Top 10 Chefs in Pakistan. She doesn’t need any introduction among the female chef of Pakistan. Food presentation, styling, arranging and home decor are her additional characters. She has presented various TV programs under her name. She has ended up being a brand of experience and extraordinary cooking. Other than these, she gives cooking tips, how to deal with home setting, kitchen utensils.</p>
+				</div>
+			</div>
+			<div class="article small">
+				<img src="https://lh3.googleusercontent.com/ixrNTtsZ_M-3Q038yOT8Q0HKagba6dkZPzgirdN9mX8WZ8BoJSjjrxtd6XYlLVyOh8wVFUN3kW7WjN327zfjghhp-XvTO_5H5zmDQ70ZEp2hlQF_rQrIJqviVOJsxVeXi52pHH2Shp4HKO25e9xtnutE_bYju675bmS3HO9UVOAGYGxqScqt-_HCOGmZkDUvpNdFAI40C9f-FJkhinmMparsOojkZVA5otPzhCd4L8OqGTgtkFC0uO1ISJKbleSzimuLT4Cqlpa4SXTWlC2zKxOplR2Ukp9CZOcc7Vig6KsJ0mxn37BJpHV4e7KqyZpTdOqeTyNHJpo8sr-EB1MMRVlPNudxSfIX-yaDTMGyjPBCiEW44KrCpCj32NRi3z04CzWdtkOduMz1Ia5m3r1uR3C_DtfPz75Jplzz7o42FATU8mjlpIolw9FVkbPVP_2RHu1q3rsU5TGkdNWR7IGmq24vAbWbo2puqQCH2adpX7LbBpLcnSyrzYSMz0zXGHyo3olxnUr4yTaX3g5rd4Me8Fgdr4Z9f3z3sA10vQPPSwjaI_ekZ-JwRskkz6vzVYf0WLW5kUPmjgtS-eNZGWN2VZ6Z4TpEuEiOVuHMh5zUoLYYxAQKUNdGXoH0_nWIZUngfJ2EKOuYi8k38cHpr3XhF3XjYbmMW6m9bAJDcK47=w1100-h619-no">
+				<div class="articlecontent">
+				<h2>The best things to do and see in Newport</h2>
+				<p> Many of those cliches about postcard-pretty coastal New England towns got their start in the same place: Newport, Rhode Island.The town is best known for being a summer getaway for America's aristocracy during the Gilded Age, with wealthy families like the Vanderbilts, the Dukes and Astors all owning summer homes there (they say "cottage," we say "ginormous mansion") and throwing glamorous parties.Although more of the luxurious estates are museums than homes these days, Newport hasn't lost its seaside charm -- especially in the summer. Here's our guide to the best things to do, eat and explore both indoors and out.</p>
+				</div>
+			</div>
+			<div class="article small">
+				<img src="Anila-Umairs-shelter.jpeg">
+				<div class="articlecontent">
+				<h2>Critters Ark Welfare Organization, Rawalpindi</h2>
+				<p>Anila said, “There is very little awareness about animals in our country. Here, animals are treated like strange creatures. This is the reason why we and animal rescuers in other cities are trying our best to raise awareness about the rights of animals; that these are living beings made by God for a purpose, without which our ecosystems would not survive”.Anila’s animal shelter is within her own home in Rawalpindi where she cares for and feeds more than a hundred rescued dogs, cats, goats, birds, and a variety of creatures. “It makes my heart happy, especially when people talk to me about it, consult me, and share their concerns about their pets. Sometimes, we help people who cannot afford treatment for their animals,” she remarked. </p>
+				</div>
+			</div>
+			<div class="article big">
+				<img src="https://lh3.googleusercontent.com/s4drGMtU6AaHz43tf95K1bni6Qs8THokpd-6ddI1r_xzVHbo9OGnAsvAitgewnT2hbVp22-TNP7cvqgGbaPbnRdGeXmTs8A_Fknt1aHtZzQr0xlSw_X74l02bwuiHQF2g_WFMGdjQkQVs1nWi-oZkbsGLtqNNv10WNgYE1ND5cLrxOtA0liuLEi2q1HUJ0Yesl3YMwlL1-WdUOxI9GepODLOqbBPMoeltg05G1_x0OQauGjMVl2K4WTs5n3SJmqv2FI3Itnt_55J3m6Wz3sL0EtszXAhE55o7wwaP1cUiyYf9UTpb3JHcHZmIw7Nvcxn31vBbu7oxN872xZWBT4brXfHuR5yaUM7T3GwciSqdEAddGgGk1aIRBtUxZJtRLBETW4wOathkCpkteaezohUDdYoVISJb1JechGv_P6GSLhSAGPxLa3rWVAqbM3lfq_CUQgWq3PwyTu3s0C3fzbv3E6B83AtjKvUrAcFgnfO0wq7Otu2TvsfA6CxVlWFcXyWIgHlu9qRDGDZ9_65Px5mlGohG62cDz0Gdxuxt-Sv6BRPK-o1IS3trmoKpqZm0Zxpco8Lz20HfqBi4Pz3O3GM8JQD82C1IodAnVIx2eTfpLtnAD7nMchey0EYgr2H1F1sKAFGzlK_DcOLp-IUB3Uz7lf2Xzf5I2PFJTY8QjXk=w299-h168-no">
+				<div class="articlecontent">
+				<h2>What Facebook's new mission can and can't fix</h2>
+				<p>With nearly 2 billion people around the world checking in monthly, it makes sense that Facebook is dealing with some very sticky issues. The social network is facing increasing pressure to address them head on.
+				He's shifting its focus from connecting individuals to building communities, namely by getting people to join more Facebook groups.The change is summed up in the company's new mission statement: "Give people the power to build community and bring the world closer together."But how much of the company's problems can really be fixed by the new direction?</p>
+				</div>
+			</div>
+			
+		</div>
+		<div class="sidebar">
+			
+			<div class="pins">
+				<h2>Pakistan</h2>
+				<img src="https://lh3.googleusercontent.com/KTcDT5xHWhaUA2FIrTS2TkaLUaC-0OQcd13lSXFwl653FFKvxHipDs4AA3I5Rx-jr92buWD9pGRoo-tf1FcFVIKvjLZ97cKbdZykKKPdWTmkMLObz7yU_G2clKk9bvfBiy4VJVrDNemdLECTEkqwCwnYP7qqQxrFXWxOJH3qLl0kNxYUAcVoVOjEPYd6XmYOE5OZ8cIRg5h7NgZcjJS0_ZLSRAy0dhVrSd3DXxL84sMZyF7cwrDUH4VN6oWbeYe68harYMaD2Gl_G623G65wKlFTMqJCn7ddmzCrL644cXLFEeWY8DOFpr5xdvOIUF68ZyCP6p7DQMg3J_zagTXvjVES6WcQS-tLVhvVsS879B2t3i8DSuojD-GJuF4qtPSmX2SGQMbIJlIXJlz6Z6o_gHHNjscqAc5ipGkDcP3cYiiN6Zij0PjL7Jec0uCZCMvzpaUWwT1UwRJXWkHjah_LJ_UNS0UKJwD7S6cCdGUCgitGPOc9gRUtkPj_ixMWehJVmtzqOAv8jRW6EWkkObNM7s2SD4ckbKn8LcpZCxT00l4j4QRUvfYrChnvZDgIoF02afza_7a5E8muajl1HKhYM7w-o-ulVXuwaYE1VEulj7Fb9bHOnbTLz3vNTR-c93H7CNLdokn8oeTHMdQXIFivDD7vTwKU4qZt4KXr9ijU=w300-h200-no">
+				<p> In a historic moment for Pakistan, iCube Qamar — the country's first satellite mission to the moon — has been be launched into the space</p>
+			</div>
+			<div class="pins">
+				<h2>Cricket</h2>
+				<img src="576104_2642770_updates.webp">
+				<p>IPL auction records tumble as Pant, Iyer break $3m mark</p>
+			</div>
+			<div class="pins">
+				<h2>Education</h2>
+				<img src="AZ_EDU_Buner_002_0.JPG.jpg">
+				<p>An estimated 22.8 million children aged 5-16 are out-of-school.</p>
+			</div>
+			<div class="pins">
+				<h2>Science & Tech</h2>
+				<img src="Tablet.png">
+				<p>ONE DAY TRAINING ACTIVITY ON OPEN JOURNAL MANAGEMENT SYSTEM FOR PUNJAB REGION AT GOVERNMENT COLLEGE UNIVERSITY FAISALABAD (GCUF)</p>
+			</div>
+			<div class="pins">
+				<h2>Bollywood</h2>
+				<img src="th.jpg">
+				<p>“Will Not Forgive Amna Urooj,” Says Khalil-ur-Rehman Qamar</p>
+			</div>
+		</div>
+		<div class="footer">
+			<div class="bottomlinks">
+				<h4>Politics</h4>
+				<ul>
+					<li><a href="#">State Emblem of Pakistan</a></li>
+					<li><a href="#"> Federal Parliamentary Republic</a></li>
+					<li><a href="#">Constitution</a></li>
+					<li><a href="#">Provincial governments </a></li>
+					<li><a href="#"> Judiciary</a></li>
+				</ul>
+			</div>
+			<div class="bottomlinks">
+				<h4>Entertainment</h4>
+				<ul>
+					<li><a href="#">Star</a></li>
+					<li><a href="#">Media</a></li>
+					<li><a href="#">Fashion</a></li>
+					<li><a href="#">Screen</a></li>
+					<li><a href="#">Culture</a></li>
+				</ul>
+			</div>
+			<div class="bottomlinks">
+				<h4>Technology</h4>
+				<ul>
+					<li><a href="#">Startup</a></li>
+					<li><a href="#">Culture</a></li>
+					<li><a href="#">Future</a></li>
+					<li><a href="#">Gadget</a></li>
+					<li><a href="#">Bussiness</a></li>
+				</ul>
+			</div>
+		</div>	
+	</div>
+</body>
+</html>
